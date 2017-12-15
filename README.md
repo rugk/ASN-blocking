@@ -20,7 +20,14 @@ Options:
   -f, --file FILE   Get company list from FILE
   -l, --list        List entries done by this script
       --renumber    Renumber lines of customnetworks & customgroups files
-  -h, --help        Show this help
+  -k, --keep        Keep temporary source files after finish
+      --renumber    Renumber lines of customnetworks & customgroups
+      --backup      Backup customnetworks & customgroups before change
+      --rmbackup    Remove backup files of customnetworks & customgroups
+      --restore     Restore customnetworks & customgroups from backup
+  -v, --verbose     Verbose mode
+  -V, --version     Show this script version and exit
+  -h, --help        Show this help and exit
 
 Create special output files (Non-IPFire-Mode):
   --network        Create FILE 'network_list.txt' with networks
