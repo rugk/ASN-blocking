@@ -4,7 +4,7 @@
 [![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/CHEF-KOCH)
 [![Discord](https://discordapp.com/api/guilds/204394292519632897/widget.png)](https://discord.me/NVinside)
 
-IPFire network object creator for IPv4 addresses based on ASN information.
+IPFire network object creator for IPv4 addresses based on ASN information. IPv6 support is planned!
 
 
 **Output of 
