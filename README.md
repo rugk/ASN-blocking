@@ -6,6 +6,8 @@
 
 IPFire network object creator for IPv4 addresses based on ASN information. IPv6 support is planned!
 
+This has originally been created by [notabug](https://notabug.org/maloe/ASN_IPFire_Script).
+
 
 **Output of 
 `asn_ipfire_beta.sh --help` respectively `asn_blocking.sh --help` :**
