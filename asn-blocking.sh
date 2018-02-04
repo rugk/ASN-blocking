@@ -7,7 +7,7 @@
 
   revision="asn_blocking.sh v1.0.1"
 # Last updated: Dec 15 2017
-# Author: CHEF-KOCH
+# Author: Mike Kuketz, maloe, CHEF-KOCH
 # Visit: chefkochblog.wordpress.com
 #######################################################################
 
